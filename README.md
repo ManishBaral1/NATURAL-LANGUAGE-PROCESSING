@@ -1,5 +1,5 @@
 # NATURAL LANGUAGE PROCESSING
-Overview Here, I have presented the course materials  for the course Natural Language Processing at ** Freie University Berlin ** with Professor Dan Jurafsky. In this course we learnt introductory Natural Language Processing concepts and practiced some concepts like tokenization, parsing ,etc using Python(nltk library). As coursework, we did final powerpoint presentation about the concepts we learnt.
+Overview Here, I have presented the course materials  for the course Natural Language Processing at **Freie University Berlin** with Professor Dan Jurafsky. In this course we learnt introductory Natural Language Processing concepts and practiced some concepts like tokenization, parsing ,etc using Python(nltk library). As coursework, we did final powerpoint presentation about the concepts we learnt.
 
 [Course Materials](https://web.stanford.edu/~jurafsky/slp3/)
 
