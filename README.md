@@ -2,7 +2,7 @@
 Overview Here, I have presented the course materials  for the course Natural Language Processing at ** Freie University Berlin ** with Professor Dan Jurafsky. In this course we learnt introductory Natural Language Processing concepts and practiced some concepts like tokenization, parsing ,etc using Python(nltk library). As coursework, we did final powerpoint presentation about the concepts we learnt.
 
 **Some concepts covered in this course.**
-+1. Regular Expressions, Text Normalization, Edit Distance ( **Fundamental Algorithms**)
++1. Regular Expressions, Text Normalization, Edit Distance ( **Fundamental Algorithms**) <br />
 +2.N-gram Language Models
 +3.Naive Bayes, Text Classification, and Sentiment
 +4.Logistic Regression
