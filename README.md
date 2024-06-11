@@ -3,7 +3,7 @@ Overview Here, I have presented the course materials  for the course Natural Lan
 
 **Some concepts covered in this course.**
 +1. Regular Expressions, Text Normalization, Edit Distance ( **Fundamental Algorithms**) <br />
-+2.N-gram Language Models
++2.N-gram Language Models <br />
 +3.Naive Bayes, Text Classification, and Sentiment
 +4.Logistic Regression
 +5.Vector Semantics and Embeddings
